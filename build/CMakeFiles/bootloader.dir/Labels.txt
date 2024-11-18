@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/xuhui/esp32/my_project/testWRO/build/CMakeFiles/bootloader
+/home/xuhui/esp32/my_project/testWRO/build/CMakeFiles/bootloader.rule
+/home/xuhui/esp32/my_project/testWRO/build/CMakeFiles/bootloader-complete.rule
+/home/xuhui/esp32/my_project/testWRO/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/xuhui/esp32/my_project/testWRO/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/xuhui/esp32/my_project/testWRO/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/xuhui/esp32/my_project/testWRO/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/xuhui/esp32/my_project/testWRO/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/xuhui/esp32/my_project/testWRO/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/xuhui/esp32/my_project/testWRO/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
